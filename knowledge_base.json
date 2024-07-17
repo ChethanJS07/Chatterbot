@@ -411,6 +411,22 @@
     {
       "question": "clear",
       "answer": "I'm sorry, I can't access your database to clear."
+    },
+    {
+      "question": "Hello!",
+      "answer": "Hey there! how can I help you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "HI",
+      "answer": "Hello! How can I help you?"
     }
   ]
 }
