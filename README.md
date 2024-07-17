@@ -33,7 +33,7 @@ No special installation steps required. Ensure Python 3.x is installed on your s
 
 2. **Execution:**
    - Run the script `chatbot.py`.
-   - Enter queries to interact with the chatbot. Type `quit` to exit.
+   - Enter queries to interact with the chatbot. Teach the chatbot if it doens't know the answers!
 
 3. **Learning:**
    - If the chatbot doesn't know an answer, it asks for user input to learn a new response.
