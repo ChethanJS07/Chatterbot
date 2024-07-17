@@ -1,0 +1,416 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How can I improve my time management skills?",
+      "answer": "Improving time management skills can be achieved by prioritizing tasks, setting goals, and using tools like calendars and to-do lists."
+    },
+    {
+      "question": "What are some healthy eating habits?",
+      "answer": "Healthy eating habits include eating a balanced diet, avoiding processed foods, drinking plenty of water, and eating a variety of fruits and vegetables."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page, click on 'Forgot Password', and follow the instructions to reset it via email."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you suggest some good movies to watch?",
+      "answer": "Some good movies to watch are 'The Shawshank Redemption', 'The Godfather', and 'Inception'."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you will need ingredients such as flour, sugar, cocoa powder, baking powder, eggs, milk, and butter. Mix the ingredients, pour the batter into a pan, and bake at 350\u00b0F (175\u00b0C) for about 30-35 minutes."
+    },
+    {
+      "question": "What is the distance between the Earth and the Moon?",
+      "answer": "The average distance between the Earth and the Moon is about 384,400 kilometers or 238,855 miles."
+    },
+    {
+      "question": "Hey there!",
+      "answer": "Hello? How can I help you?"
+    },
+    {
+      "question": "how to manage time?",
+      "answer": "Follow a timetable"
+    },
+    {
+      "question": "clear",
+      "answer": "I'm sorry, I can't access your database to clear."
+    }
+  ]
+}
