@@ -27,7 +27,6 @@ No special installation steps required. Ensure Python 3.x is installed on your s
        "questions": [
          {"question": "What is your name?", "answer": "I am a chatbot."},
          {"question": "How old are you?", "answer": "I don't have an age."},
-         ...
        ]
      }
      ```
