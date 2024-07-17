@@ -427,6 +427,14 @@
     {
       "question": "HI",
       "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I am a Chatbot."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don't have an age."
     }
   ]
 }
